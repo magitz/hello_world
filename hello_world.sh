@@ -13,3 +13,5 @@ function print_list() {
 }
 
 print_list
+
+echo 'Thank you for using my program.'
